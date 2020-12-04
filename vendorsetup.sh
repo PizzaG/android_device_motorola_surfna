@@ -1,0 +1,2 @@
+add_lunch_combo lineage_surfna-userdebug
+add_lunch_combo lineage_surfna-eng
